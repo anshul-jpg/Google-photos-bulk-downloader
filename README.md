@@ -1,4 +1,4 @@
-# Google photos bulk downloader
+# GP EXTRACTOR
 
 A personal product, which uses google photos API to fetch users all photos synced with given google account then download it on your local machine.
 
